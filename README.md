@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Manikant92/TextSurf"><img src="assets/logo.png" width="25%"></a>
+  <a href="https://github.com/Manikant92/TextSurf"><img src="assets/logo.jpeg" width="25%"></a>
 </p>
 
 
