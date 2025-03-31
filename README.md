@@ -64,3 +64,6 @@ In the following table any text starting with '$' is a variable set by the user
 | set $TAG $URL                 | Will save the url in to variable tag. Essentially turning $TAG in to a command that fetches $URL |
 | $URL                          | Will return the webpage                                                                          |
 | scroll                        | Will scroll down on last page loaded by user (Limited to 3 scrolls per page for demo)            |
+
+# Demo
+https://youtu.be/QlD3DMb9NoY
